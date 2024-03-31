@@ -1,0 +1,12 @@
+{
+  "name": "dsa_codingpatterns_javascript",
+  "version": "1.0.0",
+  "description": "This is a public repo about coding patterns in Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
