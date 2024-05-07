@@ -24,7 +24,6 @@
 // In conclusion, the reverseVowels method has a time complexity of O(n) and a space complexity of O(n), where n is the length of the input string s.
 
 // Approach: Here we use the two pointer approach to loop the character array both from the first and the last.
-
 "use strict";
 const reverseVowels=(s)=> {
      // list of vowels in English
