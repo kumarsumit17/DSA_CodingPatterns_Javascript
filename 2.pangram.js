@@ -64,8 +64,6 @@ console.log(checkIfPangram(""));
 console.log(checkIfPangram("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"));
 
 
-/**
- * Approach 2: 
- */
+
 
 
