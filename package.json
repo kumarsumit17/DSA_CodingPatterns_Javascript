@@ -1,14 +1,28 @@
 {
-  "name": "dsa_codingpatterns_javascript",
-  "version": "1.0.0",
-  "description": "This is a public repo about coding patterns in Javascript.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "Javascript", "DSA"
-  ],
-  "author": "Kumar Sumit",
-  "license": "ISC"
+    "name": "dsa_codingpatterns_javascript",
+    "version": "1.0.0",
+    "description": "This is a public repo about coding patterns in Javascript.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "eslint": "^8.45.0",
+        "eslint-config-prettier": "^8.8.0",
+        "prettier": "^3.0.0"
+    },
+    "devDependencies": {
+        "aws-sdk": "^2.1421.0",
+        "eslint-plugin-jest": "^27.2.3",
+        "jest": "^29.6.2",
+        "lodash.get": "^4.4.2",
+        "supertest": "^6.3.3"
+    },
+    "keywords": [
+        "javascript",
+        "dsa",
+        "practice"
+    ],
+    "author": "Kumar Sumit",
+    "license": "ISC"
 }
